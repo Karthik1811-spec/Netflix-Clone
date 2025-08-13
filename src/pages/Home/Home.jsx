@@ -1,7 +1,8 @@
 import React from "react";
 import "./Home.css";
 import Navbar from "../../componets/Navbar/Navbar";
-import hero_banner from "../../assets/oppenheimer-2.jpg";
+// import hero_banner from "../../assets/Oppenheimer-2.jpg";
+import hero_banner from "../../assets/Oppenheimer-2.jpg";
 import hero_text from "../../assets/Oppenheimer-text.png";
 import play_icon from "../../assets/play_icon.png";
 import info_icon from "../../assets/info_icon.png";
